@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://LefanTwelve.github.io/goit-react-hw-08-phonebook/",
   "dependencies": {
+    "@chakra-ui/icons": "^2.0.18",
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
     "@mui/material": "^5.11.16",
